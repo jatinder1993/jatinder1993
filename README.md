@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @jatinder1993
 - 👀 I’m interested in Python
-- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Intermediate level Python Project
 - 📫 How to reach me Github
 
